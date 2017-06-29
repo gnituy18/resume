@@ -10,7 +10,7 @@ I love being a developer and making cool things. Familiar with javascript, html,
 ## Projects
 ---
 * PalHub - https://palhub.net
-  * My personal prodect 
+  * My personal prodoct 
   * Participation percentage : 100%
   * Built using: koa, react, redis, socket.io
 * CSIE-chat - https://csie-chat-remake.herokuapp.com/
