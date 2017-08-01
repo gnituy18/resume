@@ -3,18 +3,14 @@ Email: sourfeethsu@gmail.com
 
 Github: https://github.com/gnituy18
 
-## Introduction
-
-I have been learning programming since 16 years old and started to build websites since I was a freshman. I love being a developer and making cool things. Most of the time I code javascript and using node as backend. 
-
 ## Ability
 * 3 years experience in javascript, html, css, nodejs, koa
 * 1 year experience in PHP, Laravel, react
-* 5 yeas experience in programming
+* 5 years experience in programming
 
 ## Projects
 * PalHub - https://palhub.net
-  * An application that help people find someone with the same intrests. Users can create or join a room which allow instant messaging and voice chat.
+  * An application that help people find someone with the same interests. Users can create or join a room which allow instant messaging and voice chat.
   * Backend is built with **node** and **koa**, and state of users and rooms are stored using **redis**.
   * Messages is pushed from server using **socket.io**, and **webrtc** is for voice chat system.
 * CSIE-chat - https://csie-chat-remake.herokuapp.com/
