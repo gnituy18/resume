@@ -3,7 +3,7 @@ Email: sourfeethsu@gmail.com
 
 Github: https://github.com/gnituy18
 
-## Intro
+## Introduction
 
 I have been learning programming since 16 years old and started to build websites since I was a freshman. I love being a developer and making cool things. Most of the time I code javascript and using node as backend. 
 
@@ -23,14 +23,14 @@ I have been learning programming since 16 years old and started to build website
   * Use **socket.io** as a server pushing system for sending user location to client and **PIXI.js** for rendering assets.
 * Besides-Magazine website - http://besidesmg.com.tw/
   * Besides Magazine is a platform in NCU founded by a group of students. A friend and I helped them build a website.
-  * Built using Laravel.
+  * Built using **Laravel**.
 * Sung-Chang Wood website - https://sungchangwood.com/
   * A website I built for Sung-Chang Wood company. (Design not included)
-  * Built using Laravel.
+  * Built using **Laravel**.
 * Conflux - https://github.com/NCU-BRATS/Conflux
   * A agile software development tool.
   * Participation percentage : < 10%
-  * Built using rails, react, elasticsearch.
+  * Built using **rails**, **react**, **elasticsearch**.
 
 ## Experience
 [Titansoft](http://www.titansoft.com/tw/) - Intern (2016 Feb - Jun)
