@@ -13,6 +13,7 @@ Github: https://github.com/gnituy18
   * An application that help people find someone with the same interests. Users can create or join a room which allow instant messaging and voice chat.
   * Backend is built with **node** and **koa**, and state of users and rooms are stored using **redis**.
   * Messages is pushed from server using **socket.io**, and **webrtc** is for voice chat system.
+  * The whole frontend is built using **react**.
 * CSIE-chat - https://csie-chat-remake.herokuapp.com/
   * A 2D avatar chat room. It's a remake version of my final project in my freshman year.
   * Backend is built with **node** and **koa**.
