@@ -7,6 +7,7 @@ Github: https://github.com/gnituy18
 * 3 years experience in javascript, html, css, nodejs, koa
 * 1 year experience in PHP, Laravel, react
 * 5 years experience in programming
+* Familiar with brainfuck
 
 ## Projects
 * PalHub - https://palhub.net
