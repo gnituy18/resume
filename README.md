@@ -27,7 +27,6 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
   * Built with **Laravel**.
 * Conflux - https://github.com/NCU-BRATS/Conflux
   * A agile software development tool.
-  * Participation percentage : < 10%
   * Built with **rails**, **react**, **elasticsearch**.
 
 ## Jobs
