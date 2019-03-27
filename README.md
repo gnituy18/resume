@@ -5,6 +5,15 @@ Github: https://github.com/gnituy18
 
 LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
 
+## Experience
+[17Media](https://m17.asia/) - Frontend Developer (2017 Sep - Present)
+* Making event pages most of the time. (Something like this -> https://event.17.media/1811-jp-christmas/)
+* Improve the whole event system.
+
+[Titansoft](http://www.titansoft.com/tw/) - Intern (2016 Feb - Jun)
+* Two other interns and I built Titansoft Training System with MS ASP.NET and c#, a course taking software for Titaners to browse and register courses.
+* I learned about **agile software development** and **scrum**.
+
 ## Skills
 * javascript/typescript
 * react
@@ -26,14 +35,6 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
   * A agile software development tool.
   * Built with **rails**, **react**, **elasticsearch**.
 
-## Jobs
-[17Media](https://m17.asia/) - Frontend Developer (2017 Sep - Present)
-* Making event pages most of the time. (Something like this -> https://event.17.media/1811-jp-christmas/)
-* Improve the whole event system.
-
-[Titansoft](http://www.titansoft.com/tw/) - Intern (2016 Feb - Jun)
-* Two other interns and I built Titansoft Training System with MS ASP.NET and c#, a course taking software for Titaners to browse and register courses.
-* I learned about **agile software development** and **scrum**.
 
 
 ## Education
