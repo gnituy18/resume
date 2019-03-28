@@ -28,14 +28,6 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
 * Besides-Magazine website - https://github.com/BesidesMagazine
   * Besides Magazine is a platform in NCU founded by a group of students.<br> This is a website I built for them.
   * Built with **Laravel**.
-* Sung-Chang Wood website - https://github.com/gnituy18/sung-chang
-  * A website I built for Sung-Chang Wood company. (Design not included)
-  * Built with **Laravel**.
-* Conflux - https://github.com/NCU-BRATS/Conflux
-  * A agile software development tool.
-  * Built with **rails**, **react**, **elasticsearch**.
-
-
 
 ## Education
 National Central University (NCU)
