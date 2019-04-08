@@ -7,11 +7,11 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
 
 ## Experience
 [17Media](https://m17.asia/) - Frontend Developer (2017 Sep - Present)
-* Developed more than 60 event pages with no delay ever. (Something like this -> https://event.17.media/1811-jp-christmas/)
+* Developed more than 60 custom event pages with no delay ever. (Something like this -> https://event.17.media/1811-jp-christmas/)
 * Although titled frontend developer, this position requires backend skills.
     * Customize complex leaderboard logic.
     * Developed a script for testing event leaderboard logic flow.
-    * Involved in internal system development such as "event configuration system" and "payment system".
+    * Involved in internal system development such as "event configuration" and "payment" system.
 
 [Titansoft](http://www.titansoft.com/tw/) - Intern (2016 Feb - Jun)
 * Two other interns and I built "Titansoft Training System" ground up with MS ASP.NET and c#. (A course taking software for Titaners to browse and register courses.)
@@ -20,7 +20,7 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
 ## Skills
 * javascript/typescript
 * react
-* vim?
+* vim
 
 ## Projects
 * CSIE-chat - https://csie-chat-remake.herokuapp.com/
