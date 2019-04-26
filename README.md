@@ -8,11 +8,10 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
 ## Experience
 
 **[17Media](https://m17.asia/) - Frontend Developer (2017 Sep - Present)**
-* Creator of a wording tools in internal system (DraftJS). 
-* Crafting more than 60 [event](https://event.17.media/1811-jp-christmas/) pages that bringing over 100 million TWD income. (Typescript, React, Rudux, Mysql, Mongo, Oauth, etc).
+* Creator of a wording tool inside internal system (DraftJS). 
+* Crafting more than 60 [event](https://event.17.media/1811-jp-christmas/) pages bringing over 100 million TWD income. (Typescript, React, Rudux, Mysql, Mongo, Oauth, etc).
 * Implement complex backend leaderboard logic including cronjob, user authentication, fans voting, roulette, etc.
 * Created a tool for testing leaderboard logic.
-
 
 **[Titansoft](http://www.titansoft.com/tw/) - Developer Intern (2016 Feb - 2016 Jun)**
 * Created a course taking software with about 50 users (C#, ASP.NET, MSSQL).
