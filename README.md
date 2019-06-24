@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
 
 **[17Media](https://m17.asia/) - Frontend Developer (2017 Sep - Present)**
 * Created a wording tool inside internal system (DraftJS). 
-* Crafted more than 60 [event](https://event.17.media/1811-jp-christmas/) pages bringing over 100 million TWD income. (Typescript, React, Rudux, Mysql, Mongo, Oauth, etc).
+* Crafted more than 60 [event](https://event.17.media/1811-jp-christmas/) pages. (Typescript, React, Rudux, Mysql, Mongo, Oauth, etc).
 * Implemented complex backend leaderboard logic including cronjob, user authentication, fans voting, roulette, etc.
 * Created a tool for testing leaderboard logic.
 
