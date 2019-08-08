@@ -26,7 +26,7 @@ LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
 * 從專案中指導4位外系同學一同開發。
 
 ## 專案
-[CSIE-chat](https://csie-chat-remake.herokuapp.com/) -  **一個練習用的2D頭像聊天室**
+**[CSIE-chat](https://csie-chat-remake.herokuapp.com/) - 一個練習用的2D頭像聊天室**
 * 發想於楓之谷，利用PixiJS實作出了角色移動、文字泡泡框。結合websocket, redis同時推播同步所有玩家的畫面。(Koa, PixiJS, socketIO, redis)
 * Try it: 註冊 -> 上傳頭像 -> 登入
     
