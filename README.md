@@ -1,9 +1,7 @@
 # 許煜廷 Charlie Hsu
-Email: sourfeethsu@gmail.com
-
-Github: https://github.com/gnituy18
-
-LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/
+Email: sourfeethsu@gmail.com<br>
+Github: https://github.com/gnituy18<br>
+LinkedIn: https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/<br>
 
 ## 經歷
 
