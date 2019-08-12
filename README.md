@@ -20,7 +20,7 @@ LinkedIn: [https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/](
 * 學習敏捷開發Scrum流程，第一次深度了解軟體開發。
 
 **[Besides-Magazine](https://github.com/BesidesMagazine) - 工程師 / 指導 (2016/04 - 2016/08)**
-* 主導開發多功能的媒體網站，能發文於 (PHP, Laravel, mysql).
+* 主導開發多功能的媒體網站，擁有發文、編輯熱門、文章分類等功能。 (PHP, Laravel, mysql).
 * 從專案中指導4位外系同學一同開發。
 
 ## 專案
