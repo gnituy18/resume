@@ -1,11 +1,23 @@
 # 許煜廷 Charlie Hsu
-Email: [sourfeethsu@gmail.com](sourfeethsu@gmail.com)<br>
+Email: [sfhp@protonmail.com](sfhp@protonmail.com)<br>
 Github: [https://github.com/gnituy18](https://github.com/gnituy18)<br>
-LinkedIn: [https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/](https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/)<br>
 
-## 經歷
+## Summary
+I work as a software engineer for about 3.5 years after computer science graduation. 
+I'm now a backend engineer at 17.live working on a event-sourcing leaderboard framework.
+It provide extremely flexible calculation which increase 200% 
 
-**[17Media](https://m17.asia/) - 前端工程師 (2017/09 - 迄今)**
+- Familiar with Golang, Redis, Mongo, Docker
+- Experience in javascript, React, NodeJS
+
+## Work Experience
+
+**[17live](https://about.17.live/) - Backend Engineer (2019/12 - present)**
+- Design and build high performance event-sourcing leaderboard framework providing customizable logic.
+- Develop server clusters which process over 10mil+ in 1 day.
+- Tech Stack: Golang(Gin), Redis, Mongo, Google Pubsub, Kafka
+
+**[17live](https://about.17.live/) - Frontend Engineer (2017/09 - 2019/12)** 
 * **大型線上 / 線下活動** 
     * 開發多個國內外大型現場活動投影網頁，與UI設計師合作製作絢麗的效果。其中包含活動榜單，換位動畫效果。
     * 使用Typescript開發多種活動規則邏輯(輪盤抽獎、粉絲投票、分組競賽)，利用強型別的特性降低出錯率。
@@ -28,10 +40,7 @@ LinkedIn: [https://www.linkedin.com/in/%E7%85%9C%E5%BB%B7-%E8%A8%B1-0bb26b149/](
 * 發想於楓之谷，利用PixiJS實作出了角色移動、文字泡泡框。結合websocket, redis同時推播同步所有玩家的畫面。(Koa, PixiJS, socketIO, redis)
 * Try it: 註冊 -> 上傳頭像 -> 登入
 
-## 技能
-* Frontend: Javascript/Typescript, HTML/CSS, Responsive Web Design, React
-* Backend: Node.js, golang, SQL
-* Git
+## Education
+National Central University (NCU)
 
-## 學歷
-國立中央大學 資訊工程學系 (2012 - 2016)
+Computer Science Information Engineering (2012 - 2016)
