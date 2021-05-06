@@ -14,7 +14,8 @@ It provide extremely flexible calculation which increase 200%
 
 **[17live](https://about.17.live/) - Backend Engineer (2019/12 - present)**
 - Design and build high performance event-sourcing leaderboard framework providing customizable logic.
-- Develop server clusters which process over 10mil+ in 1 day.
+- Develop server clusters which process over 10mil+ events in 1 day.
+- Design a build a automated reward system that 
 - Tech Stack: Golang(Gin), Redis, Mongo, Google Pubsub, Kafka
 
 **[17live](https://about.17.live/) - Frontend Engineer (2017/09 - 2019/12)** 
