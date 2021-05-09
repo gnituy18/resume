@@ -15,8 +15,8 @@ It provide extremely flexible calculation which increase 200%
 **[17live](https://about.17.live/) - Backend Engineer (2019/12 - present)**
 - Design and build high performance event-sourcing leaderboard framework providing customizable logic.
 - Develop server clusters which process over 10mil+ events in 1 day.
-- Design a build a automated reward system that 
-- Tech Stack: Golang(Gin), Redis, Mongo, Google Pubsub, Kafka
+- Design and build a automated reward system that help reducing workload for admins.
+- Tech Stack: Golang(Gin), Redis, Mongo, Google Pubsub
 
 **[17live](https://about.17.live/) - Frontend Engineer (2017/09 - 2019/12)** 
 * **大型線上 / 線下活動** 
@@ -30,16 +30,13 @@ It provide extremely flexible calculation which increase 200%
 
 **[Titansoft](http://www.titansoft.com/tw/) - 實習工程師 (2016/02 - 2016/06)**
 * 與其他兩位實習生共同開發公司內部課程管理系統(ASP.NET、C#、MsSQL)，並有超過50人使用。幫助HR管理公司內部課程，員工有效率得選課。
-* 學習敏捷開發Scrum流程，第一次深度了解軟體開發。
 
 **[Besides-Magazine](https://github.com/BesidesMagazine) - 工程師 / 指導 (2016/04 - 2016/08)**
 * 主導開發多功能的媒體網站，擁有發文、編輯熱門、文章分類等功能。 (PHP, Laravel, mysql)
-* 從專案中指導4位外系同學一同開發。
 
 ## 專案
 **[CSIE-chat](https://csie-chat-remake.herokuapp.com/) - 一個練習用的2D頭像聊天室**
 * 發想於楓之谷，利用PixiJS實作出了角色移動、文字泡泡框。結合websocket, redis同時推播同步所有玩家的畫面。(Koa, PixiJS, socketIO, redis)
-* Try it: 註冊 -> 上傳頭像 -> 登入
 
 ## Education
 National Central University (NCU)
