@@ -28,15 +28,17 @@ It provide extremely flexible calculation which increase 200%
     * 使用Typescript開發**活動頁**、**榜單**、**活動邏輯** REST API，並將系統交棒於活動企劃，解決大量重複製作類似的活動網頁。
     * 與backend合作串接[lokalise](https://lokalise.co/)，支援活動頁多國語系。
 
-**[Titansoft](http://www.titansoft.com/tw/) - 實習工程師 (2016/02 - 2016/06)**
-* 與其他兩位實習生共同開發公司內部課程管理系統(ASP.NET、C#、MsSQL)，並有超過50人使用。幫助HR管理公司內部課程，員工有效率得選課。
+**[Titansoft](http://www.titansoft.com/tw/) - Intern (2016/02 - 2016/06)**
+* Self taught C#, ASP.NET and MSSQL and created a api server with authentication, cache and session.
 
-**[Besides-Magazine](https://github.com/BesidesMagazine) - 工程師 / 指導 (2016/04 - 2016/08)**
-* 主導開發多功能的媒體網站，擁有發文、編輯熱門、文章分類等功能。 (PHP, Laravel, mysql)
+**[Besides-Magazine](https://github.com/BesidesMagazine) - Full Stack Engineer (2016/04 - 2016/08)**
+* Design and create a fully functional blogging website for a student project.
+* Tech Stack: PHP, Laravel, MySQL
 
-## 專案
-**[CSIE-chat](https://csie-chat-remake.herokuapp.com/) - 一個練習用的2D頭像聊天室**
-* 發想於楓之谷，利用PixiJS實作出了角色移動、文字泡泡框。結合websocket, redis同時推播同步所有玩家的畫面。(Koa, PixiJS, socketIO, redis)
+## Projects
+**[CSIE-chat](https://github.com/gnituy18/csie-chat-remake)**
+* A 2D avatar game with instance message inspired by MapleStory 
+* Tech Stack: JS, PixiJS, Koa, Redis, websocket.
 
 ## Education
 National Central University (NCU)
