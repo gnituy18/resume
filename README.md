@@ -20,7 +20,7 @@ I'm now a backend engineer at 17.live working on a event-sourcing leaderboard fr
 **[17live](https://about.17.live/) - Frontend Engineer (2017/09 - 2019/12)** 
 - Implemented complex backend leaderboard logic including cronjob, user authentication, fans voting, roulette, etc.
 - Created a script for running custom tests for leaderboard module reducing human error in testing.
-- Created a wording tool inside internal system for admins to update documents directly, therefore, increase productivity.
+- Created a WYSIWYG wording tool inside internal system for admins to update documents directly, therefore, increase productivity.
 - Tech Stack: Typescript, React, Rudux, Mysql, Mongo, Oauth
 
 **[Titansoft](http://www.titansoft.com/tw/) - Intern (2016/02 - 2016/06)**
