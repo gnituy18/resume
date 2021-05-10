@@ -27,10 +27,6 @@ I'm now a backend engineer at 17.live working on a event-sourcing leaderboard fr
 - Taught myself C#, ASP.NET and MSSQL and created an api server with authentication, cache, and session.
 - Tech Stack: C#, ASP.NET MSSQL
 
-**[Besides-Magazine](https://github.com/BesidesMagazine) - Full Stack Engineer (2016/04 - 2016/08)**
-- Designed and created a fully functional blogging website for a student project.
-- Tech Stack: PHP, Laravel, MySQL
-
 ## Projects
 **[CSIE-chat](https://github.com/gnituy18/csie-chat-remake)**
 - A 2D avatar game inspired by MapleStory.
