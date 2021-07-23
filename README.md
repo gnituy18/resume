@@ -3,7 +3,7 @@ Email: [sfhp@protonmail.com](sfhp@protonmail.com)<br>
 Github: [https://github.com/gnituy18](https://github.com/gnituy18)<br>
 
 ## Summary
-I work as a software engineer for about 3.5 years after computer science graduation. 
+I work as a software engineer for about 4 years after computer science graduation. 
 I'm now a backend engineer at 17.live working on a event-sourcing leaderboard framework.
 
 - Familiar with Golang, Redis, Mongo, Docker
@@ -34,6 +34,6 @@ I'm now a backend engineer at 17.live working on a event-sourcing leaderboard fr
 - Tech Stack: JS, PixiJS, Koa, Redis, websocket.
 
 ## Education
-National Central University (NCU)
+National Central University ([NCU](https://www.ncu.edu.tw/))
 
 Computer Science Information Engineering (2012 - 2016)
