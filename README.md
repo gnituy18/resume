@@ -1,17 +1,17 @@
 # 許煜廷 Charlie Hsu
-Email: [sfhp@protonmail.com](sfhp@protonmail.com)<br>
+Email: [you@hsuyuting.com](you@hsuyuting.com)<br>
 Github: [https://github.com/gnituy18](https://github.com/gnituy18)<br>
 
 ## Summary
-I work as a software engineer for about 4 years after computer science graduation. 
-I'm now a backend engineer at 17.live working on an event-sourcing leaderboard framework.
+I work as a software engineer since 2017. I'm now a fullstack engineer at houzz website services team.
 
 - Familiar with Golang, Redis, Mongo, Docker
 - Experience in javascript, React, NodeJS
 
 ## Work Experience
+**[houzz](https://houzz.com) - Fullstack Engineer (2021/09 - present)**
 
-**[17live](https://about.17.live/) - Backend Engineer (2019/12 - present)**
+**[17live](https://about.17.live/) - Backend Engineer (2019/12 - 2021/08)**
 - Designed and built a high-performance event-sourcing leaderboard framework providing customizable logic.
 - Developed server clusters that can process over 10mil+ events in 1 day.
 - Designed and built an automated reward system that helps reducing workload for admins.
