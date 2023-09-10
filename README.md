@@ -1,39 +1,55 @@
-# 許煜廷 Charlie Hsu
-Email: [you@hsuyuting.com](you@hsuyuting.com)<br>
-Github: [https://github.com/gnituy18](https://github.com/gnituy18)<br>
+# 許煜廷 (Charlie Hsu)
+
+Email: [you@hsuyuting.com](you@hsuyuting.com)
+
+Github: [https://github.com/gnituy18](https://github.com/gnituy18)
 
 ## Summary
-I work as a software engineer since 2017. I'm now a fullstack engineer at houzz website services team.
+Passionate full-stack engineer with 6 years of experience, specializing in building high-performance web applications. Currently serving as a Fullstack Engineer at Houzz, leveraging expertise in Golang, Redis, Mongo, Docker, JavaScript, React, and NodeJS.
 
-- Familiar with Golang, Redis, Mongo, Docker
-- Experience in javascript, React, NodeJS
+## Skills
+- **Languages & Frameworks**: Golang(Gin), JavaScript, TypeScript, React, Redux, NodeJS, PHP
+- **Databases**: Redis, Mongo, MySQL
+- **Tools & Others**: Docker, Google Pubsub, OAuth
 
 ## Work Experience
-**[houzz](https://houzz.com) - Fullstack Engineer (2021/09 - present)**
+### [Houzz](https://houzz.com)
 
-**[17live](https://about.17.live/) - Backend Engineer (2019/12 - 2021/08)**
-- Designed and built a high-performance event-sourcing leaderboard framework providing customizable logic.
-- Developed server clusters that can process over 10mil+ events in 1 day.
-- Designed and built an automated reward system that helps reducing workload for admins.
-- Tech Stack: Golang(Gin), Redis, Mongo, Google Pubsub
+**Fullstack Engineer** | **Moodboard** | Jan 2023 - Present
+- Collaborated with teammates to transition the original toolbar user interface to a side panel.
+- Partnered with the AI team to incorporate a background removal feature into the moodboard.
 
-**[17live](https://about.17.live/) - Frontend Engineer (2017/09 - 2019/12)** 
-- Implemented complex backend leaderboard logic including cronjob, user authentication, fans voting, roulette, etc.
-- Created a script for running custom tests for leaderboard module reducing human error in testing.
-- Created a WYSIWYG wording tool inside the internal system for admins to update documents directly, therefore, increase productivity.
-- Tech Stack: Typescript, React, Redux, Mysql, Mongo, Oauth
+**Fullstack Engineer** | **Website Services** | Sep 2021 - Dec 2022
+- Led the development of the blog system for Website Services, handling both frontend and backend responsibilities.
+- Collaborated with team members to transition our tech stack towards a micro frontend architecture.
+- Designed and implemented a reverse proxy to facilitate communication between the micro frontend and the AJAX server.
+- Independently conceptualized and constructed a new AJAX server from scratch.
 
-**[Titansoft](http://www.titansoft.com/tw/) - Intern (2016/02 - 2016/06)**
-- Taught myself C#, ASP.NET and MSSQL and created an API server with authentication, cache, and session.
-- Tech Stack: C#, ASP.NET MSSQL
+**Tech Stack**: PHP, JavaScript, TypeScript, NodeJS, MySQL
+
+### [17live](https://about.17.live/)
+**Backend Engineer** | Campaign System | Dec 2019 - Aug 2021
+- Architected a scalable event-sourcing leaderboard framework with customizable logic.
+- Engineered server clusters capable of processing 10mil+ events daily.
+- Introduced an automated reward system streamlining admin workflows.
+- **Tech Stack**: Golang(Gin), Redis, Mongo, Google Pubsub
+
+**Frontend Engineer** | Campaign System | Sep 2017 - Dec 2019
+- Executed intricate backend leaderboard functionalities encompassing cronjobs, user authentication, voting, and roulette.
+- Initiated a custom test script for the leaderboard module, minimizing testing errors.
+- Developed a user-friendly WYSIWYG tool enabling admins to directly update documents, boosting productivity.
+- **Tech Stack**: Typescript, React, Redux, Mysql, Mongo, Oauth
+
+### [Titansoft](http://www.titansoft.com/tw/)
+**Intern** | Feb 2016 - Jun 2016
+- Self-taught C#, ASP.NET, and MSSQL to develop an authenticated API server equipped with cache and session functionalities.
+- **Tech Stack**: C#, ASP.NET, MSSQL
 
 ## Projects
-**[CSIE-chat](https://github.com/gnituy18/csie-chat-remake)**
-- A 2D avatar game inspired by MapleStory.
-- Learned and implemented instant messaging using WebSocket.
-- Tech Stack: JS, PixiJS, Koa, Redis, WebSocket.
+### [CSIE-chat](https://github.com/gnituy18/csie-chat-remake)
+- Pioneered a 2D avatar game inspired by MapleStory, incorporating real-time messaging through WebSocket.
+- **Tech Stack**: JS, PixiJS, Koa, Redis, WebSocket
 
 ## Education
-National Central University ([NCU](https://www.ncu.edu.tw/))
-
-Computer Science Information Engineering (2012 - 2016)
+**National Central University** ([NCU](https://www.ncu.edu.tw/))
+B.S. in Computer Science and Information Engineering | 2012 - 2016
