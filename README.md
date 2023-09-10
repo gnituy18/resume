@@ -1,4 +1,4 @@
-# 許煜廷 (Charlie Hsu)
+# 許煜廷 Charlie Hsu
 
 - Email: [you@hsuyuting.com](you@hsuyuting.com)
 - LinkedIn: [https://www.linkedin.com/in/charlie-hsu-0bb26b149/](https://www.linkedin.com/in/charlie-hsu-0bb26b149/)
