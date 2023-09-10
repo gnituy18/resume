@@ -1,8 +1,8 @@
 # 許煜廷 (Charlie Hsu)
 
-Email: [you@hsuyuting.com](you@hsuyuting.com)
-
-Github: [https://github.com/gnituy18](https://github.com/gnituy18)
+- Email: [you@hsuyuting.com](you@hsuyuting.com)
+- LinkedIn: [https://www.linkedin.com/in/charlie-hsu-0bb26b149/](https://www.linkedin.com/in/charlie-hsu-0bb26b149/)
+- Github: [https://github.com/gnituy18](https://github.com/gnituy18)
 
 ## Summary
 Passionate full-stack engineer with 6 years of experience, specializing in building high-performance web applications. Currently serving as a Fullstack Engineer at Houzz, leveraging expertise in Golang, Redis, Mongo, Docker, JavaScript, React, and NodeJS.
