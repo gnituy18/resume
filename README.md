@@ -5,7 +5,7 @@
 - Github: [https://github.com/gnituy18](https://github.com/gnituy18)
 
 ## Summary
-Passionate full-stack engineer with 6 years of experience, specializing in building high-performance web applications. Currently serving as a Fullstack Engineer at Houzz, leveraging expertise in Golang, Redis, Mongo, Docker, JavaScript, React, and NodeJS.
+Passionate full-stack engineer with 6 years of experience, specializing in building high-performance web applications. Previously served as a Fullstack Engineer at Houzz, leveraging expertise in Golang, Redis, Mongo, Docker, JavaScript, React, and NodeJS.
 
 ## Skills
 - **Languages & Frameworks**: Golang(Gin), JavaScript, TypeScript, React, Redux, NodeJS, PHP
@@ -15,7 +15,7 @@ Passionate full-stack engineer with 6 years of experience, specializing in build
 ## Work Experience
 ### [Houzz](https://houzz.com)
 
-**Fullstack Engineer** | **Moodboard** | Jan 2023 - Present
+**Fullstack Engineer** | **Moodboard** | Jan 2023 - Nov 2023
 - Collaborated with teammates to transition the original toolbar user interface to a side panel.
 - Partnered with the AI team to incorporate a background removal feature into the moodboard.
 
