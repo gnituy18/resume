@@ -8,9 +8,9 @@
 Passionate full-stack engineer with 6 years of experience, specializing in building high-performance web applications. Previously served as a Fullstack Engineer at Houzz, leveraging expertise in Golang, Redis, Mongo, Docker, JavaScript, React, and NodeJS.
 
 ## Skills
-- **Languages & Frameworks**: Golang(Gin), JavaScript, TypeScript, React, Redux, NodeJS, PHP, Java
+- **Languages & Frameworks**: Golang, JavaScript, TypeScript, React, NodeJS, PHP, Java
 - **Databases**: Redis, Mongo, MySQL
-- **Tools & Others**: AWS S3, AWS Lambda, Docker, Google Pubsub, OAuth, WebSocket, .NET
+- **Tools & Others**: AWS S3, AWS Lambda, Docker, OAuth, WebSocket
 
 ## Work Experience
 ### [Houzz](https://houzz.com)
@@ -21,10 +21,8 @@ Passionate full-stack engineer with 6 years of experience, specializing in build
 
 **Fullstack Engineer** | **Website Services** | Sep 2021 - Dec 2022
 - Led the development of the blog system for Website Services, handling both frontend and backend responsibilities.
-- Collaborated with team members to transition our tech stack towards a micro frontend architecture.
+- Collaborated with team members on transitioning our tech stack to a micro frontend architecture, including the design and implementation of a reverse proxy to enable seamless communication between micro frontends and the AJAX server.
 - Led the implementation of a file upload feature using AWS S3 and ClamAV.
-- Independently conceptualized and constructed a new AJAX server from scratch.
-- Designed and implemented a reverse proxy to facilitate communication between the micro frontend and the AJAX server.
 
 **Tech Stack**: Java, PHP, JavaScript, TypeScript, NodeJS, MySQL, AWS S3, AWS Lambda, Docker
 
