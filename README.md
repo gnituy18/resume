@@ -45,9 +45,9 @@ Passionate full-stack engineer with 6 years of experience, specializing in build
 - **Tech Stack**: C#, ASP.NET, MSSQL
 
 ## Projects
-### [CSIE-chat](https://github.com/gnituy18/csie-chat-remake)
-- Pioneered a 2D avatar game inspired by MapleStory, incorporating real-time messaging through WebSocket.
-- **Tech Stack**: JS, PixiJS, Koa, Redis, WebSocket
+### [台島](https://台島.tw)
+- AI chatbot that delivers real-time weather forecasts and personalized clothing recommendations.
+- **Tech Stack**: golang, HTMX, AWS Lightsail
 
 ## Education
 **National Central University** ([NCU](https://www.ncu.edu.tw/))
