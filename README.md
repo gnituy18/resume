@@ -46,7 +46,7 @@ Passionate full-stack engineer with 6 years of experience, specializing in build
 
 ## Projects
 ### [台島](https://台島.tw)
-- AI chatbot that delivers real-time weather forecasts and personalized clothing recommendations.
+- AI chatbot that delivers the latest news updates and real-time weather forecasts, along with personalized clothing recommendations.
 - **Tech Stack**: golang, HTMX, AWS Lightsail
 
 ## Education
