@@ -1,6 +1,6 @@
 # 許煜廷 Charlie Hsu
 
-- Email: [you@hsuyuting.com](you@hsuyuting.com)
+- Email: [me@hsuyuting.com](me@hsuyuting.com)
 - LinkedIn: [https://www.linkedin.com/in/charlie-hsu-0bb26b149/](https://www.linkedin.com/in/charlie-hsu-0bb26b149/)
 - Github: [https://github.com/gnituy18](https://github.com/gnituy18)
 
